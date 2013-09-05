@@ -7,6 +7,7 @@ def g_test(mat):
 def shake_up(mat):
     '''This function sums up along the columns and returns a matrix
     if the data were randomly distributed'''
+
     
     pass
 
